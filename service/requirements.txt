@@ -1,0 +1,8 @@
+flask
+requests
+boto3
+numpy
+scipy
+matplotlib
+pandas
+sklearn
